@@ -5,7 +5,7 @@ use warnings;
 package #
   Acme::Syntax::Examples;
 
-# ABSTRACT: Syntax examples for testing parsers, highlighters, etc.
+# ABSTRACT: Perl syntax examples for testing parsers, highlighters, etc.
 
 # Imports
 
@@ -67,9 +67,9 @@ require Timer::Simple;
 
 1;
 
-=head1 module pod
+=head1 DESCRIPTION
 
-pod in module
+Perl syntax examples for testing parsers, highlighters, etc.
 
 =cut
 
