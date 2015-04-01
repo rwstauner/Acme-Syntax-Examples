@@ -1,10 +1,11 @@
-# NAME
+# DESCRIPTION
 
-Acme::Syntax::Examples - undef
+Perl syntax examples for testing parsers, highlighters, etc.
 
-# COPYRIGHT AND LICENSE
+# end pod
 
-This software is copyright (c) 2015 by Randy Stauner.
+pod after end
 
-This is free software; you can redistribute it and/or modify it under
-the same terms as the Perl 5 programming language system itself.
+# data pod
+
+pod after data
